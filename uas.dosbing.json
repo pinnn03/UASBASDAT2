@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "659b99e41ea878e843497577"
+  },
+  "id": 1,
+  "idmahasiswa": 1,
+  "iddosen": 100,
+  "namadosen": "Putri Laura"
+},
+{
+  "_id": {
+    "$oid": "659b99e41ea878e843497578"
+  },
+  "id": 2,
+  "idmahasiswa": 1,
+  "iddosen": 101,
+  "namadosen": "Putra bangsa"
+},
+{
+  "_id": {
+    "$oid": "659b99e41ea878e843497579"
+  },
+  "id": 3,
+  "idmahasiswa": 2,
+  "iddosen": 101,
+  "namadosen": "Putri"
+},
+{
+  "_id": {
+    "$oid": "659b99e41ea878e84349757a"
+  },
+  "id": 4,
+  "idmahasiswa": 2,
+  "iddosen": 102,
+  "namadosen": "Eva Laura"
+}]

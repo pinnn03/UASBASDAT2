@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "659b99a21ea878e843497575"
+  },
+  "id": 1,
+  "idmahasiswa": 1,
+  "hobi": [
+    "Traveling",
+    "Music",
+    "Games"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659b99a21ea878e843497576"
+  },
+  "id": 2,
+  "idmahasiswa": 2,
+  "hobi": [
+    "Membaca",
+    "Menulis",
+    "Mendesain"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba7954d523cbfc044b3ef"
+  },
+  "id": 3,
+  "idmahasiswa": 3,
+  "hobi": [
+    "Olahraga",
+    "Membaca",
+    "Belajar"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba7954d523cbfc044b3f0"
+  },
+  "id": 4,
+  "idmahasiswa": 3,
+  "hobi": [
+    "Musik",
+    "Memasak",
+    "Berkebun"
+  ]
+},
+{
+  "_id": {
+    "$oid": "659ba7954d523cbfc044b3f1"
+  },
+  "id": 5,
+  "idmahasiswa": 2,
+  "hobi": [
+    "Membaca",
+    "Menulis",
+    "Mendesain"
+  ]
+}]
